@@ -11,7 +11,7 @@
 ## Description
 This is a project providing script for routing a presupplied application with starter code. The app itself is for taking notes, you can save and delete your notes as well.
 ## Installation
--npm i express, npm i uuid, -npm i fs-utils, npm i<br>
+-npm i express, npm i uuid, -npm i fs-utils, -npm i, -npm start <br>
 Used [node](https://nodejs.org/en/) to run the script/server
 ## Usage
 Run server.js and answer the questions and using your browser navigate to localhost:3001, there you will see a get started button, after you click that you will be taken to a page where you can submit notes, save them, and delete them.
